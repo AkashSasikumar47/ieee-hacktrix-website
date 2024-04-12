@@ -1,8 +1,8 @@
-# HackTrix Website
+# HackTrix Hackathon
 
 Welcome to the HackTrix Website project repository! This repository contains the source code for the official website of HackTrix, organized by IEEE SRM Student Branch.
 
-![HackTrix Website](public/img/reference_img/hacktrix-website.png)
+![HackTrix Website](public/img/reference_img/ieee-hacktrix-website.jpg)
 
 ## About HackTrix
 
